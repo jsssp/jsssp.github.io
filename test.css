@@ -3,13 +3,16 @@ Together-1
  */
 body{
 	background:#B3B3B3;
-	font-size: 125%;
+	font-size: 15px;
 
 }
 
 header{
 	background: #F2F3F5;
 	text-align: center;
+padding:15px;
+font-size:24px;
+Width:100%;
 }
 
 h1{
@@ -19,7 +22,7 @@ h1{
 nav{
 	font-variant: small-caps;
 	font-family: Arial, "Times New Roman", serif;
-	font-size: 200%;
+	font-size: 13px;
 }
 
 h2{
@@ -28,7 +31,7 @@ h2{
 	text-align: center;
 }
 p{ 
-	text-align: justify;
+//	text-align: justify;
 }
 summary{
 	font-style:normal;

@@ -26,10 +26,10 @@ nav{
 h2{
 	color: #000000;
 	background: #00b7ea;
-	text-align: center;
+	text-align: left;
 }
 p{ 
-	text-align: justify;
+	text-align: left;
 }
 summary{
 	font-style:normal;

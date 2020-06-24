@@ -8,22 +8,22 @@ body{
 }
 
 header{
-	background: #666666;
+	background: #F2F3F5;
 	text-align: center;
 }
 
 h1{
-	color: #ffffff;
+	color: #3578E5;
 }
 
 nav{
 	font-variant: small-caps;
 	font-family: Arial, "Times New Roman", serif;
-	font-size: 150%;
+	font-size: 200%;
 }
 
 h2{
-	color: #666666;
+	color: #000000;
 	background: #00b7ea;
 }
 

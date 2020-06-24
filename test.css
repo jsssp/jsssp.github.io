@@ -10,7 +10,8 @@ body{
 header{
 	background: #F2F3F5;
 	text-align: center;
-	width:100%
+	width:100%;
+	padding:10px;
 }
 
 h1{
